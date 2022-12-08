@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kamil
-#### I am MSc student in final year of my studies
-My name is Kamil Zdeb and currently I am Computer Science student at Faculty of Computer Science and Telecommunications in in Wroclaw University of Science and Technology. I am interested in machine learning and artificial inteligence.
+#### I am Junior Application Developer at Fortaco.
+My name is Kamil Zdeb and I recently graduated in Computer Science at Faculty of Computer Science and Telecommunications in Wroclaw University of Science and Technology. Currently I am working on some IoT stuff.
 
 ### Languages and Tools:
 ---
