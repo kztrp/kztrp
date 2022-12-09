@@ -2,8 +2,9 @@
 #### I am Junior Application Developer at Fortaco.
 My name is Kamil Zdeb and I recently graduated in Computer Science at Faculty of Computer Science and Telecommunications in Wroclaw University of Science and Technology. Currently I am working on some IoT stuff.
 
-### Languages and Tools:
 ---
+### Languages and Tools:
+
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="Scikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/scikit-learn/scikit-learn.png" />
@@ -15,8 +16,9 @@ My name is Kamil Zdeb and I recently graduated in Computer Science at Faculty of
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br><br>
-### Github stats:
 ---
+### Github stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kztrp)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kztrp&show_icons=true)  
