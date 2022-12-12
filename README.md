@@ -19,7 +19,7 @@ My name is Kamil Zdeb and I recently graduated in Computer Science at Faculty of
 ---
 ### Github stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kztrp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kztrp&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kztrp&show_icons=true)  
 
